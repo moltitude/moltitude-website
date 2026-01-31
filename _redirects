@@ -1,0 +1,5 @@
+# Redirect www to non-www (if using custom domain)
+# https://www.moltitude.com/* https://moltitude.com/:splat 301
+
+# Handle SPA routing (not needed for static site, but here for reference)
+# /*  /index.html  200
